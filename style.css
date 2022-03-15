@@ -1,0 +1,11 @@
+@import ''
+
+h1 {
+    color: rgb(16, 69, 116);
+    font-size: 80px;
+}
+
+strong {
+    color: red;
+    font-family: 'Syne Tactile', cursive;
+}
